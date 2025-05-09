@@ -1,0 +1,18 @@
+{
+    "name": "raphaelramosds/pdf-to-txt",
+    "description" : "A simple package for converting a PDF file into TXT",
+    "autoload": {
+        "psr-4": {
+            "raphaelramosds\\PdfToTxt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raphael Ramos",
+            "email": "raphael.opensource@gmail.com"
+        }
+    ],
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.13"
+    }
+}
