@@ -2,6 +2,12 @@
 
 PdfToTxt is a simple package for converting a PDF file into TXT with PHP
 
+```bash
+composer require composer require raphaelramosds/pdf-to-txt
+```
+
+> This package was published on [Packagist](https://packagist.org/)
+
 ## Dependencies
 
 ### Image Magick
@@ -23,7 +29,3 @@ php -m | grep imagick
 # Install Tesseract OCR and its support to PT-BR language
 sudo apt install tesseract-ocr tesseract-ocr-por
 ```
-
-## Deploy
-
-This package is published on [Packagist](https://packagist.org/)
