@@ -14,6 +14,12 @@ It uses ImageMagick to convert all PDF pages into JPG format, extracts their con
 
 Unfortunately, this package can only be used in a Linux environment. Additionally, you will need to install the following dependencies:
 
+### TesseractOCR
+
+```bash
+composer require thiagoalessio/tesseract_ocr
+```
+
 ### ImageMagick
 
 ```bash
