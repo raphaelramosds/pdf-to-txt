@@ -24,4 +24,6 @@ php -m | grep imagick
 sudo apt install tesseract-ocr tesseract-ocr-por
 ```
 
+## Deploy
 
+This package is published on [Packagist](https://packagist.org/)

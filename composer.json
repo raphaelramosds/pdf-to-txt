@@ -1,6 +1,7 @@
 {
     "name": "raphaelramosds/pdf-to-txt",
     "description" : "A simple package for converting a PDF file into TXT",
+    "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
             "raphaelramosds\\PdfToTxt\\": "src/"
@@ -13,6 +14,8 @@
         }
     ],
     "require": {
+        "php": ">=8.2",
+        "another-vendor/package": "1.*",
         "thiagoalessio/tesseract_ocr": "^2.13"
     }
 }
