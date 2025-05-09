@@ -10,14 +10,16 @@ use thiagoalessio\TesseractOCR\TesseractOCR;
 
 class PdfToTxt 
 {
-    public $filename;
-    public $pdf;
+    public string $filename;
+    public string $pdf;
 
-    private $txt_dir;
-    private $reloadPdf;
-    private $pages = [];
+    private string $txt_dirname;
+    private string $img_dirname;
+    private bool $reloadPdf;
 
-    public function __construct (string $filename, string $pdf, string $txt_dir) 
+    private array $pages;
+
+    public function __construct (string $filename, string $pdf, string $txt_dirname) 
     {
         try {
             if (!file_exists($pdf)) {
@@ -30,9 +32,12 @@ class PdfToTxt
 
         $this->filename = $filename;
         $this->pdf = $pdf;
+        
+        $this->txt_dirname = $txt_dirname;
+        $this->img_dirname = __DIR__ ."/tmp/$filename";
         $this->reloadPdf = true;
 
-        $this->txt_dir = $txt_dir;
+        $this->pages = [];
     }
 
 
@@ -47,32 +52,30 @@ class PdfToTxt
 
     private function generateImages()
     {
-        $img = IMG_PATH . "/" . $this->filename;
-
-        if (!file_exists($img)) {
-            mkdir($img, 0777);
+        if (!file_exists($this->img_dirname)) {
+            mkdir($this->img_dirname, 0777);
         }
 
         // Convert each PDF page to JPG
         $imagick = new Imagick();
         $imagick->setResolution(160, 160);
         $imagick->readImage($this->pdf);
-        $imagick->writeImages($img . "/page.jpg", false);
+        $imagick->writeImages($this->img_dirname . "/page.jpg", false);
 
         // List all files of report folder
-        $files = scandir($img);
+        $files = scandir($this->img_dirname);
 
         // Filter only JPG pages
         $this->pages = array_filter($files, function ($el) {
             return str_contains($el, 'page');
         });
 
-        echo "Images were successfully generated on {$img}" . PHP_EOL;
+        echo "Images were successfully generated" . PHP_EOL;
     }
 
     private function generateTxt ()
     {
-        $txt = $this->txt_dir . "/" . $this->filename . ".txt";
+        $txt = $this->txt_dirname . "/" . $this->filename . ".txt";
 
         $file = fopen($txt, "a") or die("Unable to open file");
         
@@ -82,7 +85,7 @@ class PdfToTxt
         // Build TXT file
         for ($i = 0; $i < sizeof($this->pages); $i++) 
         {
-            $tocr = new TesseractOCR(IMG_PATH . "/" . $this->filename . "/page-{$i}.jpg");
+            $tocr = new TesseractOCR($this->img_dirname . "/page-{$i}.jpg");
             $content = $tocr
                 ->lang('por')
                 ->run();
