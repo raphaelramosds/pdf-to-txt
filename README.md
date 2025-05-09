@@ -3,7 +3,7 @@
 PdfToTxt is a simple package for converting a PDF file into TXT with PHP
 
 ```bash
-composer require composer require raphaelramosds/pdf-to-txt
+composer require raphaelramosds/pdf-to-txt
 ```
 
 > This package was published on [Packagist](https://packagist.org/)
