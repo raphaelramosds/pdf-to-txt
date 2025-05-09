@@ -14,10 +14,14 @@ It uses ImageMagick to convert all PDF pages into JPG format, extracts their con
 
 Unfortunately, this package can only be used in a Linux environment. Additionally, you will need to install the following dependencies:
 
-### TesseractOCR
+### Tesseract OCR wrapper and package
 
 ```bash
+# PHP wrapper for Tesseract
 composer require thiagoalessio/tesseract_ocr
+
+# Install Tesseract OCR and its support to PT-BR language
+sudo apt install tesseract-ocr tesseract-ocr-por
 ```
 
 ### ImageMagick
@@ -31,11 +35,4 @@ sudo phpenmod imagick
 
 # (Optional) Check if it is enabled
 php -m | grep imagick
-```
-
-### Tesseract OCR
-
-```bash
-# Install Tesseract OCR and its support to PT-BR language
-sudo apt install tesseract-ocr tesseract-ocr-por
 ```
