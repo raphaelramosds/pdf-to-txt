@@ -12,7 +12,9 @@ It uses ImageMagick to convert all PDF pages into JPG format, extracts their con
 
 ## Dependencies
 
-### Image Magick
+Unfortunately, this package can only be used in a Linux environment. Additionally, you will need to install the following dependencies:
+
+### ImageMagick
 
 ```bash
 # Install
