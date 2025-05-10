@@ -7,14 +7,14 @@ NOTIFICAÇÃO DE DESCOBERTA
 
 OBJETIVOS DA CARGA
 
-Receber informações referentes a qualquer descoberta de hidrocarbonetos ocorrida durante a perfuração
+Receber informações referentes a qualquer descoberta de hidrocarbonetos ocorrida durante a periuração
 de um poço exploratório.
 
 REVISÕES
 
 As retificações das informações de uma descoberta já informadas deverão ser feitas utilizando o Número
 de Ordem da Descoberta (NUM ORDEM DESCOBERTA) que se deseja alterar, sendo que a ANP
-deverá ser contatada anteriormente ao envio da retificação, por meio do e-mail sigep sep6Danp.gov.br,
+deverá ser contatada anteriormente ao envio da retificação, por meio do e-mail sigep seplDanp.gov.br,
 de forma a liberar carga retificadora.
 
 SUPERINTENDÊNCIAS RELACIONADAS
@@ -36,12 +36,16 @@ Número de Ordem da Descoberta
 Número de Ordem da Descoberta que está sendo informada.
 
 Data Descoberta
-Data em que se deu a segunda ocorrência que caracterizou a descoberta Caracteriza-se como
+Data em que se deu a segunda ocorrência que caracterizou a descoberta.Caracteriza-se como
+
 descoberta a ocorrência de indícios, em uma mesma zona, a partir de dois métodos distintos.
 
 Fluido(s)
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 1332
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102
+
+1132
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 Informar o fluido principal descoberto: 1 - Gás; 2 - Petróleo; 3 - Gás e Petróleo; 7 - Seco;
 
@@ -50,21 +54,21 @@ Indica se o poço está perfurando, sendo avaliado ou concluído.
 
 Observações
 Qualquer tipo de observação relevante, principalmente se o fluido identificado não classificado como
-"outro".
+“outro”.
 
 CONCEITOS RELATIVOS A INDÍCIOS
 
 Topo do intervalo com indícios de Petróleo ou Gás Natural
 nformar a profundidade medida do topo do intervalo com indícios de petróleo ou gás natural, em metros
 
-(m)
+Em).
 
 Base do intervalo com indícios de Petróleo ou Gás Natural
 nformar a profundidade medida da base do intervalo com indícios de petróleo ou gás natural, em metros
 
-tm)
+tm).
 
-Periodo do intervalo com indícios de Petróleo ou Gás Natural
+Período do intervalo com indícios de Petróleo ou Gás Natural
 nformar o código do período em que foi depositada a camada sedimentar na qual foram constatados os
 indícios de petróleo e gás natural.
 
@@ -98,9 +102,10 @@ Qualidade da fluorescência: B - Bom; R - Regular; F - Fraca.
 
 Corte
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 2132
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 2132
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
-Qualidade do corte: B - Bom; R - Regular, F - Fraca.
+Qualidade do corte: B - Bom; R - Regular; F - Fraca.
 
 Detector de gás - valor GT
 nformar o valor de gás total. O sistema deve aceitar valor decimal positivo e zero.
@@ -108,7 +113,7 @@ nformar o valor de gás total. O sistema deve aceitar valor decimal positivo e z
 Detector de gás - unidade GT
 nformar a respectiva unidade usada na medição (UGT, ppm ou %).
 
-Detector de gás - valor GP
+Detector de gás - valorGP
 nformar o valor de gás pesado. O sistema deve aceitar valor decimal positivo e zero.
 
 Detector de gás - unidade GP
@@ -122,7 +127,7 @@ Informar a profundidade medida do topo do intervalo perfilado, em metros (m).
 Base do intervalo perfilado
 informar a profundidade medida da base do intervalor perfilado, em metros (m).
 
-Periodo do intervalo perfilado
+Período do intervalo perfilado
 nformar o código do período em que foi depositada a camada sedimentar na qual a análise de perfis
 identificou zonas de interesse para hidrocarbonetos.
 
@@ -155,24 +160,25 @@ sedimentares brasileiras.
 Litologia do intervalo perfilado
 Informar a litologia interpretada do intervalo perfilado.
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 3132
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 3/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
+
 Porosidade do intervalo perfilado
-nformar a porosidade do intervalo perfilado, em porcentagem (%), com precisão de uma casa decimal.
 
 SW do intervalo perfilado
-
 nformar a saturação de água do intervalo perfilado, em porcentagem (%), com precisão de uma casa
+
 decimal.
 
-EPYV do intervalo perfilado
+EPY do intervalo perfilado
 nformar a espessura porosa com óleo (m).
 
 Fluido do intervalo perfilado
 nformar o tipo de fluído constatado. 1 - Gás; 2 - Petróleo; 3 - Gás e Petróleo; 7 - Seco;
 
 Tipo Contato
-nformar o tipo de contato. Exemplo: O/G, O/A, G/A, etc.
+nformar o tipo de contato. Exemplo: O/G, O/A, G/A, ete.
 
 Prof. Contato
 nformar a profundidade do contato identificado, em metros (m).
@@ -180,9 +186,10 @@ nformar a profundidade do contato identificado, em metros (m).
 CONCEITOS RELATIVOS A TESTES FORMAÇÃO
 
 Tipo
-
 Informar o tipo de teste de formação realizado: TIF - teste de identificação de fluidos; TF - teste
-convencional; TFS - teste seletivo; TFR - teste em poço revestido; TC - teste a cabo; TCDP - teste a cabo
+
+convencional; TF'S - teste seletivo; TFR - teste em poço revestido; TC - teste a cabo; TCDP - teste a cabo
+
 dual packer; PT - Pré-teste.
 
 Topo do intervalo testado
@@ -192,8 +199,6 @@ Base do intervalo testado
 nformar base do intervalo testado, em metros (m).
 
 Vazão Estim.
-
-nformar vazão de teste estimada para o teste (m“/d). O sistema deve aceitar valor decimal positivo e
 zero.
 
 Fluido
@@ -203,80 +208,87 @@ API
 nformar o “API do fluído produzido. O sistema deve aceitar valor decimal positivo e zero.
 
 Poder Calorífico do Gás
-nformar o poder calorífico do gás natural produzido. O sistema deve aceitar valor decimal positivo e zero.
 
 Permeabilidade
 nformar a permeabilidade interpretada (mD). O sistema deve aceitar valor decimal positivo e zero.
 
 IP
 
-nformar índice de produtividade inferido (m“fdia/kgf/cm?). O sistema deve aceitar valor decimal positivo e
 zero.
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 4132
-14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102
 
+nformar a porosidade do intervalo perfilado, em porcentagem (%), com precisão de uma casa decimal.
+
+nformar vazão de teste estimada para o teste (m*/d). O sistema deve aceitar valor decimal positivo e
+
+nformar o poder calorífico do gás natural produzido. O sistema deve aceitar valor decimal positivo e zero.
+
+nformar índice de produtividade inferido (m%dia/kgifem?). O sistema deve aceitar valor decimal positivo e
+
+432
+
+14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 AOF
 Informar o Absolute Open Flow (AOF), em mídia. O sistema deve aceitar valor decimal positivo e zero.
 
 Depleção
-Informar depleção venficada (kgflem?). O sistema deve aceitar valor decimal positivo e zero.
+Informar depleção verificada (kgi/em?. O sistema deve aceitar valor decimal positivo e zero.
 
 ETAPAS PARA O PROCEDIMENTO DE ENVIO DE CARGA VIA XML
 
-O procedimento para a “Carga de Dados via Internet" consiste nas seguintes etapas:
+O procedimento para a “Carga de Dados via Internet' consiste nas seguintes etapas:
 » Geração do arquivo XML pelo agente regulado;
 * Compactação do arquivo XML em arquivo zip pelo agente regulado;
 e Assinatura digital do arquivo zip (caso necessário) em formato p7s pelo agente regulado;
-* Envio do arquivo zip ou p7s pelo agente regulado via VVeb Service;
+» Envio do arquivo zip ou p7s pelo agente regulado via Web Service;
 * Validação automática do arquivo XML feita pela ANP;
-e Reenvio pelo agente regulado dos arquivos não carregados ou posteriormente reprovados pela
+« Reenvio pelo agente regulado dos arquivos não carregados ou posteriormente reprovados pela
 ANP.
 
-O formato do arquivo deve ser compatível com o validador XSD da carga que acompanha este manual.
+O formato do arquivo deve ser compatível com o validador XSD da carga que acompanha este manual,
 
-Anomencliatura do arquivo é padronizada e obedece ao formato 102 RAIZ-
-CNPJ AAAAMMDDHHMM TTTTTTITTTITTTT ddd, onde:
+A nomenclatura do arquivo é padronizada e obedece ao formato 102 RAIZ-
+CNPJ AAAAMMDDHHMM TTTTTTTTITITTTT da, onde:
 
 * 102 é o número identificador da carga e não deve ser alterado.
 
 e RAIZ-CNPJ são os 8 primeiros dígitos (sem ponto ou barra) do CNPJ da empresa operadora que
 está enviando os dados para a ANP.
 
-* AAAAMNDD é a data de envio do arquivo, sendo AAAA 4 dígitos correspondentes ao ano (ex.:
-2011), MM 2 dígitos correspondentes ao mês (ex.: 04 para abril) e DD dois dígitos correspondentes
+* AAAAMMNDD é a data de envio do arquivo, sendo AAAA 4 dígitos correspondentes ao ano (ex.:
+2011), MM 2 dígitos correspondentes ao mês (ex.: 04 para abril) e DD dois digitos correspondentes
 ao dia do mês.
 
-* HHMM é a hora de envio do arquivo, sendo HH 2 dígitos correspondentes à hora e MM 2 dígitos
+* HHMM é a hora de envio do arquivo, sendo HH 2 dígitos correspondentes à hora e MM 2 digitos
 correspondentes ao minuto. Não é necessário que a hora seja exatamente a hora de carga. Isso
 serve apenas para diferenciar as versões carregadas pela mesma empresa operadora em
 determinada data.
 
-e TTTTITTITTITTTITT são 15 dígitos livres para melhor identificação do arquivo. Pode ser omitido e
+e TITITITITITITTT são 15 digitos livres para melhor identificação do arquivo. Pode ser omitido e
 não deve conter espaços vazios.
 
-* ddd é a extensão do arquivo: Será 'xm!' para o arquivo XML, 'zip' para o arquivo compactado e
+* ddd é a extensão do arquivo: Será 'xml' para o arquivo XML, 'zip' para o arquivo compactado e
 'p7s' para o arquivo assinado
 
-Exemplo: 102 33000167 201205231523 ABCDEF 123xml (arquivo enviado pela Petrobrás no dia
-23/05/2012 às 15:23 referente a dado identificado como ABCDEF. 123).
+Exemplo: 102 33000167 201205231523 ABCDEF 123.xml (arquivo enviado pela Petrobrás no dia
+23/05/2012 às 15:23 referente a dado identificado como ABCDEF 123).
 Atenção aos pontos a seguir:
 
 1) Este arquivo pode ser enviado assinado digitalmente. Para isso assine o arquivo ZIP e envie para a
 ANP o arquivo .P7S resultante, com o zip anexado intemamente. Maiores detalhes no Manual do
-Webservice Externo (..!. fAjuda).
+Webservice Externo (../../Ajuda).
 
 2) O arquivo ZIP deve ter o mesmo nome utilizado para o arquivo XML.
 
 3) Caso a carga não tenha sido efetuada por alguma falha no envio ou erro no preenchimento, um novo
 arquivo deverá ser encaminhado com as devidas alterações de data e/ou hora.
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 5732
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 5/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
-
-4) Os arquivos com status “rejeitado” e “parcialmente carregado" não tiveram seus dados carregados no
+4) Os arquivos com status “rejeitado” e “parcialmente carregado” não tiveram seus dados carregados no
 banco de dados da ANP e, portanto, deverão ser corrigidos e enviados novamente. O reenvio deve seguir
-
 o mesmo processo cujas etapas estão acima enumeradas.
 
 ENVIO DA CARGA VIA ARQUIVO EXCEL
@@ -289,60 +301,60 @@ DESCRIÇÃO DA NATUREZA DOS CAMPOS
 A natureza do campo sinaliza o tipo de dado que pode ser informado num determinado campo, as
 principais são:
 
-Ano - Ano no formato AAAA.
+* Ano-ÀAno no formato AAMA.
 
-Ano Mês - Ano e mês no formato AAAAMM. Não informar caracteres de separação entre o ano e o
+e Ano Mês - Ano e mês no formato AAAAMM. Não informar caracteres de separação entre o ano e 0
 mês.
 
-Ano Trimestre - Ano e trimestre no formato AAAAT. Não informar caracteres de separação entre o
+* Ano Trimestre - Ano e trimestre no formato AAAAT. Não informar caracteres de separação entre o
 ano e o trimestre.
 
-CNPJ - Número válido de um Cadastro Nacional de Pessoa Jurídica. Informar apenas dígitos.
+» CNPJ- Número válido de um Cadastro Nacional de Pessoa Jurídica. Informar apenas dígitos.
 
-CPF - Número válido de um Cadastro de Pessoa Física. Informar apenas dígitos.
+* CPF - Número válido de um Cadastro de Pessoa Física. Informar apenas dígitos.
 
-Coordenada - Coordenada de um local (Latitude/Longitude) no formato (+GG:MM:SS,SSS).
+« Coordenada - Coordenada de um local (Latitude/Longitude) no formato (+GG:MM:SS,SSS).
 
-Data - Dia, mês e ano no formato YYYY-MM-DD (Exemplo: 2002-09-24).
+» Data - Dia, mês e ano no formato YYYY-MM-DD (Exemplo: 2002-09-24).
 
-Data hora - Dia, mês, ano, hora, minuto e segundo no formato YYYY-MM-DDThh:mm:ss. Deve ter
+* Data hora - Dia, mês, ano, hora, minuto e segundo no formato YYYY-MM-DDThh:mm:ss. Deve ter
 19 caracteres. (Exemplo: 2002-05-30709:00:00).
 
-Domínio - Lista de possíveis valores que podem ser informados, separados por vírgula.
+* Dominio - Lista de possíveis valores que podem ser informados, separados por vírgula.
 
-Imagem - Imagem no formato 'JPG' ou 'GIF".
+* Imagem - Imagem no formato 'JPG' ou “GIF.
 
-Mês - Mês no formato numérico (MM).
+« Mês - Mês no formato numérico (MM).
 
-Número Decimal - Número com uma parte inteira e outra fracionária, separado por vírgula. (Ex.:
+» Número Decimal - Número com uma parte inteira e outra fracionária, separado por vírgula. (Ex.:
 (2,3) = 27,354).
 
-Número Decimal Negativo - Número negativo com uma parte inteira e outra fracionária, separado
+* Número Decimal Negativo - Número negativo com uma parte inteira e outra fracionária, separado
 por vírgula. (Ex.: (2,3) = -27,354)
 
-Número Decimal Positivo - Número positivo com uma parte inteira e outra fracionária, separado por
-vírgula. (Ex.: (2,3) = 27,354)
+* Número Decimal Positivo - Número positivo com uma parte inteira e outra fracionária, separado por
+virgula. (Ex.: (2,3) = 27,354)
 
-Número Natural - É um número inteiro não-negativo (0, 1,2,3,..).
+* Número Natural - É um número inteiro não-negativo (0, 1, 2,3,...).
 
-Número Inteiro - São constituídos dos números naturais (0, 1, 2, ...) e dos seus simétricos (0, -1, -2,
-.)
+* Número Inteiro - São constituídos dos números naturais (0, 1, 2, ...) e dos seus siméftricos (0, -1, -2,
+=)
 
-PDF - Arquivo no formato PDF.
+» PDF - Arquivo no formato PDF.
 
-Shapefile - Arquivo no formato SHP a ser gravado num campo do tipo BLOB no banco de dados.
-Sim/Não - Preencher com "S" para sim e "Nº" para não.
+* Shapefile - Arquivo no formato SHP a ser gravado num campo do tipo BLOB no banco de dados.
 
-Texto - Texto livre, obedecendo ao tamanho máximo de caracteres definido.
+* Sim/Não - Preencher com "S" para sim e "N" para não.
 
-UF - Sigla da Unidade da Federação. Informar: AC, AL, AM, AP, BA, CE, DF, ES, GO, MA, MG, MS,
-MT. PA, PB, PE, PI, PR, RJ, RN, RO, RR, RS, SC, SE, SP ou TO.
+» Texto - Texto livre, obedecendo ao tamanho máximo de caracteres definido.
+
+* UF- Sigla da Unidade da Federação. Informar: AC, AL, AM, AP, BA, CE, DF, ES, GO, MA, MG, MS,
+MT, PA, PB, PE, PI, PR, RJ, RN, RO, RR, RS, SC, SE, SP ou TO.
 
 DETALHES DE PREENCHIMENTO DOS CAMPOS
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102
 
-6/32
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 
 CONCEITOS RELATIVOS A DADOS BÁSICOS - Neste grupo de informações devem ser
@@ -358,7 +370,7 @@ Tamanho: 50
 Obrigatoriedade: N/A
 
 Preenchimento: Identificador próprio de cada empresa para facilitar a identificação do
-arquivolnformação enviada através do arquivo da carga ND.
+arquivo/informação enviada através do arquivo da carga ND.
 
 Título: Cadastro do Poço ANP
 Nome XML: COD CADASTRO POCO
@@ -389,7 +401,8 @@ forma a liberar que carga possa ser realizada.
 Título: Data Descoberta
 Nome XML: DAT DESCOBERTA
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 7132
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 Unidade de Medida: N/A
 
@@ -398,7 +411,7 @@ Tamanho: 10
 Obrigatoriedade: Sim
 
 Preenchimento: Data em que se deu a ocorrência que caracterizou a descoberta, no Formato da
-data No Excel ddimm/aaaa No XML: aaaa-mm-dd
+data No Excel ddimm/iaaaa No XML: aaaa-mm-dd
 
 Título: Fluido(s)
 Nome XML: SEQ TIPO FLUIDO
@@ -419,7 +432,7 @@ Natureza: Texto
 Tamanho: 500
 Obrigatoriedade: Não
 
-Preenchimento: Informar se o poço está perfurando, sendo avaliado ou concluído, com limite
+Preenchimento: Informar se o poço está periurando, sendo avaliado ou concluído, com limite
 máximo de 500 caracteres no preenchimento.
 
 Título: Observações
@@ -433,7 +446,8 @@ Obrigatoriedade: Não
 Preenchimento: Apresentar observações relevantes, com limite de mil (1000) caracteres no
 preenchimento.
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 B/32
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 8/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 
 CONCEITOS RELATIVOS A INDÍCIOS - Neste grupo de informações devem ser preenchidos
@@ -451,7 +465,7 @@ Obrigatoriedade: Não
 Preenchimento: Informar o valor absoluto da profundidade medida do topo do intervalo com
 indícios de petróleo ou gás natural, em metros (m), com precisão de duas casas decimais. Informar
 valor válido (decimal positivo com até 6 inteiros e 2 decimais) de acordo o formato para Excel ou
-XML. No excel: separar as casas decimais com vigula (,). No xml: separar as casas decimais com
+XML. No excel: separar as casas decimais com vígula (,). No xml: separar as casas decimais com
 ponto (.).
 
 Título: Base do intervalo com indícios de Petróleo ou Gás Natural
@@ -478,9 +492,10 @@ Tamanho: 10
 Obrigatoriedade: Não
 
 Preenchimento: Informar o código de até dez dígitos do "Período do Intervalo com Indícios de
-Petróleo ou Gás Natural" que esteja cadastrado na base de dados da ANP.
+Petróleo ou Gás Natural" que esteja cadastrado na base de dados da ANP
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 9/32
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 Título: Época do intervalo com indícios de Petróleo ou Gás Natural
 Nome XML: COD EPOCA
@@ -490,8 +505,8 @@ Natureza: Inteiro Positivo
 Tamanho: 10
 Obrigatoriedade: Não
 
-Preenchimento: Informar o código com até dez digitos da "Época do Intervalo com Indícios de
-Petróleo ou Gás Natural" que esteja cadastrado na base de dados da ANP.
+Preenchimento: Informar o código com até dez dígitos da "Época do Intervalo com Indícios de
+Petróleo ou Gás Natural" que esteja cadastrado na base de dados da ANP
 
 Título: Idade do intervalo com indícios de Petróleo ou Gás Natural
 Nome XML: COD IDADE
@@ -501,8 +516,8 @@ Natureza: Inteiro Positivo
 Tamanho: 10
 Obrigatoriedade: Não
 
-Preenchimento: Informar o código com até dez dígitos da "Idade do Intervalo com Indícios de
-Petróleo ou Gás Natural" que esteja cadastrado na base de dados da ANP.
+Preenchimento: Informar o código com até dez digitos da "Idade do Intervalo com Indícios de
+Petróleo ou Gás Natural" que esteja cadastrado na base de dados da ANP
 
 Título: Grupo do intervalo com indícios de Petróleo ou Gás Natural
 Nome XML: SEQ GRUPO
@@ -527,7 +542,8 @@ Obrigatoriedade: Não
 Preenchimento: Informar o código com até dez dígitos da "Formação do Intervalo com Indícios de
 Petróleo ou Gás Natural" cadastrado na base de dados da ANP com a situação válida.
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 10/32
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 10/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 
 Título: Membro do intervalo com indícios de Petróleo ou Gás Natural
@@ -550,7 +566,7 @@ Tamanho: 1
 Obrigatoriedade: Sim
 
 Preenchimento: O tipo de indício deve ser informado pela empresa operadora da seguinte forma:
-“C" para Amostra de Calha, "T" para Testemunho, "A" para Amostra Lateral ou "D" para Detector de
+"C" para Amostra de Calha, "T" para Testemunho, "A" para Amostra Lateral ou "D" para Detector de
 Gás.
 
 Título: Fluorescência
@@ -562,16 +578,18 @@ Tamanho: 1
 Obrigatoriedade: Não
 
 Preenchimento: A qualidade da fluorescência deve ser informada pela empresa operadora da
-seguinte forma: "B" para Boa, “R" para Regular ou "F" para Fraca.
+seguinte forma: "B" para Boa, "R" para Regular ou "F" para Fraca.
 
 Título: Corte
 Nome XML: COD CORTE
 Unidade de Medida: N/A
 
-Natureza: Texio
+Natureza: Texto
 Tamanho: 1
 Obrigatoriedade: Não
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 1182
+
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 11/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 
 Preenchimento: A qualidade do corte deve ser informada pela empresa operadora da seguinte
@@ -591,7 +609,7 @@ excel: separar as casas decimais com vígula (,). No xml: separar as casas decim
 
 Título: Detector de gás - unidade GT
 Nome XML: COD UGT
-Unidade de Medida: UGT, ppm, %
+Unidade de Medida: UGT, ppm,
 
 Natureza: Texto
 Tamanho: 3
@@ -609,15 +627,16 @@ Obrigatoriedade: Não
 
 Preenchimento: Informar o valor de gás pesado, com precisão de uma casa decimal. Informar
 valor válido (decimal positivo com até 7 inteiros e 1 decimal) de acordo o formato para Excel ou
-XML. No excel: separar as casas decimais com vigula (,). No xml: separar as casas decimais com
+XML. No excel: separar as casas decimais com vígula (,). No xml: separar as casas decimais com
 ponto (.).
 
 Título: Detector de gás - unidade GP
 Nome XML: COD UGP
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 12532
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 12/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
-Unidade de Medida: UGP, ppm, %
+Unidade de Medida: UGP, ppm,
 
 Natureza: Texto
 Tamanho: 3
@@ -654,7 +673,7 @@ Obrigatoriedade: Não
 Preenchimento: Informar o valor absoluto da profundidade medida da base do intervalo com
 indícios de petróleo ou gás natural, em metros (m), com precisão de duas casas decimais. Informar
 valor válido (decimal positivo com até 6 inteiros e 2 decimais) de acordo o formato para Excel ou
-XML. No excel: separar as casas decimais com vigula (,). No xml: separar as casas decimais com
+XML. No excel: separar as casas decimais com vígula (,). No xml: separar as casas decimais com
 ponto (.).
 
 Título: Período do intervalo perfilado
@@ -663,7 +682,8 @@ Unidade de Medida: N/A
 
 Natureza: Inteiro Positivo
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 13/32
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 13/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 Tamanho: 10
 Obrigatoriedade: Não
@@ -676,10 +696,12 @@ Nome XML: COD EPOCA
 Unidade de Medida: N/A
 
 Natureza: Inteiro Positivo
+
 Tamanho: 10
+
 Obrigatoriedade: Não
 
-Preenchimento: Informar o código com até dez digitos da "Época do Intervalo Perfilado"
+Preenchimento: Informar o código com até dez dígitos da "Época do Intervalo Perfilado"
 cadastrado na base de dados da ANP.
 
 Título: Idade do intervalo perfilado
@@ -698,7 +720,9 @@ Nome XML: SEQ GRUPO
 Unidade de Medida: N/A
 
 Natureza: Inteiro Positivo
+
 Tamanho: 10
+
 Obrigatoriedade: Não
 
 Preenchimento: Informar o código com até dez dígitos do "Grupo do Intervalo Perfilado"
@@ -707,7 +731,8 @@ cadastrado na base de dados da ANP com a situação válida.
 Título: Formação do intervalo perfilado
 Nome XML: SEQ FORMACAO GEOLOGICA
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 14/32
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 14/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 Unidade de Medida: N/A
 
@@ -726,7 +751,7 @@ Natureza: Inteiro Positivo
 Tamanho: 10
 Obrigatoriedade: Não
 
-Preenchimento: Informar o código com até dez dígitos do "Membro do Intervalo Perfilado"
+Preenchimento: Informar o código com até dez digitos do "Membro do Intervalo Perfilado"
 cadastrado na base de dados da ANP com a situação válida.
 
 Título: Litologia do intervalo perfilado
@@ -750,10 +775,11 @@ Obrigatoriedade: Não
 
 Preenchimento: Informar a porosidade média do intervalo perfilado, em porcentagem (%), com
 precisão de uma casa decimal. Informar valor válido (decimal positivo com até 3 inteiros e 1 decimal)
-de acordo o formato para Excel ou XML. No excel: separar as casas decimais com vígula (,). No
+de acordo o formato para Excel ou XNL. No excel: separar as casas decimais com vígula ()). No
 xml: separar as casas decimais com ponto (.).
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 15/32
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 15/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 
 Título: SW do intervalo perfilado
@@ -767,7 +793,7 @@ Obrigatoriedade: Não
 Preenchimento: Informar a saturação de água média do intervalo perfilado, em porcentagem (%),
 com precisão de uma casa decimal. Informar valor válido (decimal positivo com até 3 inteiros e 1
 decimal) de acordo o formato para Excel ou XML. No excel: separar as casas decimais com vígula
-(.). No xml: separar as casas decimais com ponto (.).
+(). No xml: separar as casas decimais com ponto (.).
 
 Título: EPV do intervalo perfilado
 Nome XML: MED EPV DPP
@@ -797,9 +823,10 @@ Título: Tipo Contato
 Nome XML: NOM TIPO CONTATO
 Unidade de Medida: N/A
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 16/32
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 16/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
-Natureza: Texio
+Natureza: Texto
 Tamanho: 3
 Obrigatoriedade: Não
 
@@ -817,7 +844,7 @@ Obrigatoriedade: Não
 Preenchimento: Informar o valor absoluto da profundidade do contato identificado, em metros (m),
 com precisão de duas casas decimais. Informar valor válido (decimal positivo com até 6 inteiros e 2
 decimais) de acordo o formato para Excel ou XML. No excel: separar as casas decimais com vígula
-(.). No xm!: separar as casas decimais com ponto (.).
+(). No xml: separar as casas decimais com ponto (.).
 
 CONCEITOS RELATIVOS A TESTES FORMAÇÃO - Neste grupo de informações devem ser
 preenchidos os dados de teste de formação. Quantidade de registros esperados para este
@@ -832,7 +859,7 @@ Tamanho: 10
 Obrigatoriedade: Não
 
 Preenchimento: Informar o tipo de teste de formação realizado (TIF - teste de identificação de
-fluidos; TF - teste convencional, TFS - teste seletivo, TFR - teste em poço revestido, TC - teste a
+fluidos; TF - teste convencional, TF'S - teste seletivo, TFR - teste em poço revestido, TC - teste a
 cabo, TCDP - teste a cabo dual packer, PT - PRÉ-TESTE), com limite de dez (10) caracteres.
 
 Título: Topo do intervalo testado
@@ -844,12 +871,13 @@ Natureza: Decimal Positivo
 Tamanho: 6 inteiros e 2 decimais
 Obrigatoriedade: Não
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 17132
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 17/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 Preenchimento: Informar o valor absoluto da profundidade do contato identificado, em metros (m),
 com precisão de duas casas decimais. Informar valor válido (decimal positivo com até 6 inteiros e 2
 decimais) de acordo o formato para Excel ou XML. No excel: separar as casas decimais com vígula
-(.). No xm!: separar as casas decimais com ponto (.).
+(). No xml: separar as casas decimais com ponto (.).
 
 Título: Base do intervalo testado
 Nome XML: MED PROF BASE
@@ -862,7 +890,7 @@ Obrigatoriedade: Não
 Preenchimento: Informar o valor absoluto da profundidade do contato identificado, em metros (m),
 com precisão de duas casas decimais. Informar valor válido (decimal positivo com até 6 inteiros e 2
 decimais) de acordo o formato para Excel ou XML. No excel: separar as casas decimais com vígula
-(.). No xm!: separar as casas decimais com ponto (.).
+(). No xml: separar as casas decimais com ponto (.).
 
 Título: Vazão Estim.
 Nome XML: TXT DADOS VAZAO DPP
@@ -872,10 +900,10 @@ Natureza: Decimal Positivo
 Tamanho: 6 inteiros e 1 decimal
 Obrigatoriedade: Não
 
-Preenchimento: Informar vazão de teste estimada para o teste em metros cúbicos por dia(m*d),
+Preenchimento: Informar vazão de teste estimada para o teste em metros cúbicos por dia(m*/d),
 com precisão de uma (1) casa decimal. Informar valor válido (decimal positivo com até 6 inteiros e 1
 decimal) de acordo o formato para Excel ou XML. No excel: separar as casas decimais com vígula
-(.). No xmi: separar as casas decimais com ponto (.).
+(). No xml: separar as casas decimais com ponto (.).
 
 Título: Fluido
 Nome XML: SEQ TIPO FLUIDO
@@ -889,7 +917,8 @@ Obrigatoriedade: Não
 Preenchimento: Informar o(s) fluido(s) principal(is) identificados no intervalo testado. Deve ser
 inserido na planilha somente os códigos a seguir: 1 - Gás; 2 - Petróleo; 3 - Gás e Petróleo; 7 - Seco;
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 18/32
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 18/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 
 Título: API
@@ -907,7 +936,7 @@ decimais com ponto (.).
 
 Título: Poder Calorífico do Gás
 Nome XML: PODER CALORIFICO GAS
-Unidade de Medida: milhões de Jim*
+Unidade de Medida: milhões de Jim?
 
 Natureza: Decimal Positivo
 Tamanho: 6 inteiros e 1 decimais
@@ -915,7 +944,7 @@ Obrigatoriedade: Não
 
 Preenchimento: Informar o poder calorífico do gás natural produzido. O sistema deve aceitar valor
 decimal positivo e zero. Informar valor válido (decimal positivo com até 6 inteiros e 1 decimal) de
-acordo o formato para Excel ou XML. No excel: separar as casas decimais com vígula (,). No xml:
+acordo o formato para Excel ou XML. No excel: separar as casas decimais com vigula (,). No xml:
 separar as casas decimais com ponto (.).
 
 Título: Permeabilidade
@@ -933,23 +962,24 @@ casas decimais com ponto (.).
 
 Título: IP
 Nome XML: TXT IP DPP
-Unidade de Medida: m*/dia/xgf/em?
+Unidade de Medida: mº/dia/kgifem?
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 19/32
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 19/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 Natureza: Decimal Positivo
 Tamanho: 6 inteiros e 1 decimais
 Obrigatoriedade: Não
 
 Preenchimento: Informar índice de produtividade inferido, em metro cúbico por dia por quilograma-
-força por centímetro quadrado (m“fdia/xgficm?), com precisão de uma (1) casa decimal. Informar
+força por centímetro quadrado (m“/dia/kgi/em?), com precisão de uma (1) casa decimal. Informar
 valor válido (decimal positivo com até 6 inteiros e 1 decimal) de acordo o formato para Excel ou
 XML. No excel: separar as casas decimais com vígula (,). No xml: separar as casas decimais com
 ponto (.).
 
 Título: AOF
 Nome XML: AOF
-Unidade de Medida: mídia
+Unidade de Medida: média
 
 Natureza: Decimal Positivo
 Tamanho: 6 inteiros e 1 decimais
@@ -962,17 +992,17 @@ separar as casas decimais com ponto (.).
 
 Título: Depleção
 Nome XML: MED DEPLECAO DPP
-Unidade de Medida: kgffcm”
+Unidade de Medida: kgi/cm?
 
 Natureza: Decimal Positivo
 Tamanho: 6 inteiros e 1 decimais
 Obrigatoriedade: Não
 
 Preenchimento: Informar depleção verificada, em quilograma-força por centímetro quadrado
-(kgflem?), com precisão de uma (1) casa decimal. Informar valor válido (decimal positivo com até 6
+(kgffem?), com precisão de uma (1) casa decimal. Informar valor válido (decimal positivo com até 6
 
 inteiros e 1 decimal) de acordo o formato para Excel ou XML. No excel: separar as casas decimais
-com vígula (,). No xml: separar as casas decimais com ponto (.).
+com vigula (,). No xml: separar as casas decimais com ponto (.).
 
 VALIDAÇÕES APLICADAS AUTOMATICAMENTE AO ARQUIVO
 
@@ -980,13 +1010,14 @@ Código da validação: 1
 
 Mensagem apresentada: O nome do arquivo não é válido.
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 20532
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 20/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 
 Situação em que ocorre: O nome do arquivo não obedece ao padrão estabelecido pela ANP.
-Ação corretiva: A nomenclatura do arquivo deve obedecer ao formato: xxx RAIZ-
+Ação corretiva: A nomenclatura do arquivo deve obedecer ao formato: xx RAIZ-
 
-CNPJ AAAAMMDDHHMM TTTTITTTTTTTTTTT. ddd, onde: xxx é o número identificador da carga;
+CNPJ AAAAMMDDHHMM TTTTITTTITITITTT dd, onde: xxx é o número identificador da carga;
 RAIZ-CNPJ são os 8 primeiros dígitos (sem ponto ou barra) do CNPJ da empresa que está
 carregando os dados; AAAAMMDDHHMM é a data e hora de envio do arquivo no formato ano
 (AAAA), mês (MM), dia (DD), hora (HH) e minuto (MM); TT..T são 15 dígitos livres; ddd é a extensão
@@ -1025,7 +1056,8 @@ Ação corretiva: É preciso assinar digitalmente o arquivo com um certificado d
 Autoridade Certificadora Raiz ICP-BRASIL e que este certificado esteja associado à mesma
 empresa do usuário que está enviando o arquivo.
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 2152
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 21/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 
 Código da validação: 5
@@ -1066,7 +1098,8 @@ Também é possível validar o arquivo no site do sistema antes de envia-lo à A
 
 Código da validação: 10
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 221532
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 22/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 
 Mensagem apresentada: O nome do XML não é válido.
@@ -1090,10 +1123,10 @@ mesmo nome.
 Código da validação: 12
 
 Mensagem apresentada: Arquivo ZIP inválido.
-Situação em que ocorre: O sistema não conseguiu ler o arquivo como um arquivo ZIP.
+Situação em que ocorre: O sistema não conseguiu ler o arquivo como um arquivo ZIP
 
 Ação corretiva: Verifique se o arquivo realmente está compactado ou se o mesmo não está
-corempido.
+corrompido.
 
 Código da validação: 13
 
@@ -1109,7 +1142,8 @@ Código da validação: 14
 
 Mensagem apresentada: O arquivo tem falha de conversão ou dados.
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 2352
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 23/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 
 Situação em que ocorre: Ocorreu um erro durante a conversão da planilha (XLSX) para o formato
@@ -1138,7 +1172,7 @@ base de dados da ANP.
 
 Ação corretiva: Informar um código do "Cadastro do Poço ANP" cadastrado na base de dados da
 ANP. Os códigos do cadastro do poço ANP válidos podem ser consultados a partir do link:
-https://dpp-api.anp.gov.br/swaggerluifindex
+https://dpp-api.anp.gov.br/swagger/uilindex
 
 Código da validação: 2326
 
@@ -1152,9 +1186,11 @@ na carga.
 Ação corretiva: Utilizar um código do "Cadastro do Poço ANP" que esteja associado ao número do
 CNPJ do operador do contrato vinculado ao usuário autenticado no sistema. Os códigos do cadastro
 do poço ANP válidos podem ser consultados a partir do link: https://dpp-
-api.anp.gov.briswaggerluilindex
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 24152
+api anp.gov.br/swaggerluilindex
+
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 24/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 
 Código da validação: 2327
@@ -1163,12 +1199,12 @@ Mensagem apresentada: O código do "Período do Intervalo com Indícios de Petr�
 Natural" [Valor informado] informado no conjunto de dados INDÍCIOS não está cadastrado na base
 de dados da ANP.
 
-Situação em que ocorre: Quando o código do "Período do Intervalo com Indicios de Petróleo ou
+Situação em que ocorre: Quando o código do "Periodo do Intervalo com Indícios de Petróleo ou
 Gás Natural" não estiver cadastrado na base de dados da ANP.
 
 Ação corretiva: Informar um código do "Período do Intervalo com Indícios de Petróleo ou Gás
-Natural" que esteja cadastrado na base de dados da ANP. Os códigos válidos podem ser
-consultados a partir do link: https://dpp-api.anp.gov.br/swagger/uilindex
+Natural" que esteja cadastrado na base de dados da ANP Os códigos válidos podem ser
+consultados a partir do link: https://dpp-api.anp.gov.br'swagger/uilindex
 
 Código da validação: 2328
 
@@ -1176,44 +1212,45 @@ Mensagem apresentada: O código da "Época do Intervalo com Indícios de Petról
 Natural" [Valor informado] informado no conjunto de dados INDÍCIOS não está cadastrado na base
 de dados da ANP.
 
-Situação em que ocorre: Quando o código da "Época do Intervalo com Indicios de Petróleo ou Gás
+Situação em que ocorre: Quando o código da "Época do Intervalo com Indícios de Petróleo ou Gás
 Natural" não estiver cadastrado na base de dados da ANP.
 
 Ação corretiva: Informar um código da "Época do Intervalo com Indícios de Petróleo ou Gás
-Natural" que esteja cadastrado na base de dados da ANP. Os códigos válidos podem ser
-consultados a partir do link: https://dpp-api.anp.gov.br/swagger/uilindex
+Natural" que esteja cadastrado na base de dados da ANP Os códigos válidos podem ser
+consultados a partir do link: https://dpp-api.anp.gov.br'swagger/uilindex
 
 Código da validação: 2329
 
 Mensagem apresentada: O código da "Época do Intervalo com Indícios de Petróleo ou Gás
 Natural" [Valor informado] do conjunto de dados INDÍCIOS não está associado na base de dados da
-ANP ao código do "Período do Intervalo com Indícios de Petróleo ou Gás Natural” [Valor informado]
+ANP ao código do "Período do Intervalo com Indícios de Petróleo ou Gás Natural" [Valor informado]
 do conjunto de dados INDÍCIOS informado.
 
-Situação em que ocorre: Quando o código da "Época do Intervalo com Indicios de Petróleo ou Gás
+Situação em que ocorre: Quando o código da "Época do Intervalo com Indícios de Petróleo ou Gás
 Natural" do conjunto de dados INDÍCIOS informado não estiver associado na base de dados da ANP
-ao código do "Período do Intervalo com Indícios de Petróleo ou Gás Natural" do conjunto de dados
+ao código do "Periodo do Intervalo com Indícios de Petróleo ou Gás Natural" do conjunto de dados
 INDÍCIOS informado.
 
 Ação corretiva: Informar um código da "Época do Intervalo com Indícios de Petróleo ou Gás
 Natural" que esteja associado na base de dados da ANP ao código do "Período do Intervalo com
 Indícios de Petróleo ou Gás Natural". A associação entre os códigos pode ser consultada a partir do
-link abaixo: https://dpp-api.anp.gov.br/swaggerluilindex
+link abaixo: https://dpp-api.anp.gov.br/swaggerluifindex
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 25532
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 25/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 
 Código da validação: 2330
 
 Mensagem apresentada: O código da "Idade do Intervalo com Indícios de Petróleo ou Gás Natural"
-(OI) informado no conjunto de dados INDÍCIOS não está cadastrado na base de dados da ANP.
+(OI) informado no conjunto de dados INDÍCIOS não está cadastrado na base de dados da ANP
 
 Situação em que ocorre: Quando o código da "Idade do intervalo com indícios de Petróleo ou Gás
-Natural" informado na carga não estiver cadastrado na base de dados da ANP.
+Natural" informado na carga não estiver cadastrado na base de dados da ANP
 
 Ação corretiva: Informar um código da "Idade do Intervalo com Indícios de Petróleo ou Gás
-Natural" que esteja cadastrado na base de dados da ANP. Os códigos válidos podem ser
-consultados a partir do link: https://dpp-api.anp.gov.br/swagger/uilindex
+Natural" que esteja cadastrado na base de dados da ANP Os códigos válidos podem ser
+consultados a partir do link: https://dpp-api.anp.gov.br'swagger/uilindex
 
 Código da validação: 2331
 
@@ -1222,14 +1259,14 @@ Mensagem apresentada: O código da "Idade do Intervalo com Indícios de Petróle
 da ANP ao código da "Época do Intervalo com Indícios de Petróleo ou Gás Natural" [Valor
 informado] informado no conjunto de dados INDÍCIOS.
 
-Situação em que ocorre: Quando o código da "Idade do Intervalo com Indicios de Petróleo ou Gás
+Situação em que ocorre: Quando o código da "Idade do Intervalo com Indícios de Petróleo ou Gás
 Natural" não estiver associado na base de dados da ANP ao código da "Época do Intervalo com
-Indícios de Petróleo ou Gás Natural".
+Indícios de Petróleo ou Gás Natural”,
 
 Ação corretiva: Informar um código da "Idade do Intervalo com Indícios de Petróleo ou Gás
 Natural" que esteja associado na base de dados da ANP ao código da "Época do Intervalo com
 Indícios de Petróleo ou Gás Natural". A associação entre os códigos pode ser consultada a partir do
-link abaixo: https://dpp-api.anp.gov.br/swaggerluilindex
+link abaixo: https://dpp-api.anp.gov.br/swaggerluifindex
 
 Código da validação: 2332
 
@@ -1244,11 +1281,12 @@ Ação corretiva: Informar um código do "Grupo do Intervalo com Indícios de Pe
 Natural" cadastrado na base de dados da ANP com a situação válida. Os códigos do grupo do
 
 intervalo com indícios de petróleo ou gás natural válidos podem ser consultados a partir do link:
-https://dpp-api.anp.gov.br/swaggerluifindex
+https://dpp-api.anp.gov.br/swagger/uilindex
 
 Código da validação: 2333
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 26/32
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 26/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 
 Mensagem apresentada: O código de "Formação do Intervalo com Indícios de Petróleo ou Gás
@@ -1261,23 +1299,23 @@ Gás Natural" informado não estiver cadastrado ou não possuir uma situação v
 Ação corretiva: Informar um código de "Formação do Intervalo com Indícios de Petróleo ou Gás
 Natural" cadastrado na base de dados da ANP com a situação válida. Os códigos de formação do
 intervalo com indícios de petróleo ou gás natural válidos podem ser consultados a partir do link:
-https://dpp-api.anp.gov.briswaggerluifindex
+https://dpp-api.anp.gov.br/swaggerluilindex
 
 Código da validação: 2334
 
 Mensagem apresentada: O código de "Formação do Intervalo com Indícios de Petróleo ou Gás
 Natural" [Valor informado] informado no conjunto de dados INDÍCIOS não está associado na base
-de dados da ANP ao código do "Grupo do Intervalo com Indícios de Petróleo ou Gás Natural” [Valor
+de dados da ANP ao código do "Grupo do Intervalo com Indícios de Petróleo ou Gás Natural" [Valor
 informado] informado no conjunto de dados INDÍCIOS.
 
 Situação em que ocorre: Quando o código de "Formação do Intervalo com Indícios de Petróleo ou
 Gás Natural" não estiver associado na base de dados da ANP ao código do "Grupo do Intervalo com
-Indícios de Petróleo ou Gás Natural".
+Indícios de Petróleo ou Gás Natural”.
 
 Ação corretiva: Informar um código de "Formação do Intervalo com Indícios de Petróleo ou Gás
 Natural" que esteja associado na base de dados da ANP ao código do "Grupo do Intervalo com
 Indícios de Petróleo ou Gás Natural". A associação entre os códigos pode ser consultada a partir do
-link abaixo: https://dpp-api.anp.gov.br/swaggerluilindex
+link abaixo: https://dpp-api.anp.gov.br/swaggerluifindex
 
 Código da validação: 2335
 
@@ -1286,17 +1324,18 @@ Natural" [Valor informado] informado no conjunto de dados INDÍCIOS não está c
 possui uma situação válida na ANP.
 
 Situação em que ocorre: Quando o código do "Membro do Intervalo com Indícios de Petróleo ou
-Gás Natural" não estiver cadastrado ou não possuir uma situação válida na ANP.
+Gás Natural" não estiver cadastrado ou não possuir uma situação válida na ANP
 
 Ação corretiva: Informar um código do "Membro do Intervalo com Indícios de Petróleo ou Gás
 Natural" cadastrado na base de dados da ANP com a situação válida. Os códigos de membro do
 
 intervalo com indícios de petróleo ou gás natural válidos podem ser consultados a partir do link:
-https://dpp-api.anp.gov.br/swaggerluifindex
+https://dpp-api.anp.gov.br/swagger/uilindex
 
 Código da validação: 2336
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 2712
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 2732
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 
 Mensagem apresentada: O código do "Membro do Intervalo com Indícios de Petróleo ou Gás
@@ -1306,7 +1345,7 @@ de dados da ANP ao código de "Formação do Intervalo com Indícios de Petróle
 
 Situação em que ocorre: Quando o código do "Membro do Intervalo com Indícios de Petróleo ou
 Gás Natural" não estiver associado na base de dados da ANP ao código de "Formação do Intervalo
-com Indícios de Petróleo ou Gás Natural".
+com Indícios de Petróleo ou Gás Natural”,
 
 Ação corretiva: Informar um código do "Membro do Intervalo com Indícios de Petróleo ou Gás
 Natural" que esteja associado na base de dados da ANP ao código de "Formação do Intervalo com
@@ -1316,35 +1355,36 @@ link abaixo: https://dpp-api.anp.gov.br/swaggerluilindex
 Código da validação: 2337
 
 Mensagem apresentada: O código do "Período do Intervalo Perfilado" [Valor informado] informado
-no conjunto de dados PERFIS não está cadastrado na ANP.
+no conjunto de dados PERFIS não está cadastrado na ANP
 
 Situação em que ocorre: Quando o código do "Periodo do Intervalo Perfilado" não estiver
 cadastrado na ANP.
 
 Ação corretiva: Informar um código do "Período do Intervalo Perfilado" cadastrado na base de
-
-dados da ANP. Os códigos do período do intervalo perfilado válidos podem ser consultados a partir
-do link: https://dpp-api.anp.gov.br/swaggerluilindex
+dados da ANP Os códigos do periodo do intervalo perfilado válidos podem ser consultados a partir
+do link: https://dpp-api.anp.gov.br'swagger/uilindex
 
 Código da validação: 2338
 
 Mensagem apresentada: O código da "Época do Intervalo Perfilado" [Valor informado] informado
-no conjunto de dados PERFIS não está cadastrado na ANP.
+
+no conjunto de dados PERFIS não está cadastrado na ANP
 
 Situação em que ocorre: Quando o código da "Época do Intervalo Perfilado" não estiver
 cadastrado na ANP.
 
 Ação corretiva: Informar um código da "Época do Intervalo Perfilado" cadastrado na base de dados
 
-da ANP. Os códigos da época do intervalo perfilado válidos podem ser consultados a partir do link:
-https://dpp-api.anp.gov.br/iswaggerluifindex
+da ANP Os códigos da época do intervalo perfilado válidos podem ser consultados a partir do link:
+https://dpp-api.anp.gov.br/swagger/uilindex
 
 Código da validação: 2339
 
 Mensagem apresentada: O código da "Época do Intervalo Perfilado" [Valor informado] informado
-no conjunto de dados PERFIS não está associado na base de dados da ANP ao código do "Periodo
+no conjunto de dados PERFIS não está associado na base de dados da ANP ao código do "Período
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 28532
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 28/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 do Intervalo Perfilado" [Valor informado] informado no conjunto de dados PERFIS.
 
@@ -1353,36 +1393,36 @@ na base de dados da ANP ao código do "Período do Intervalo Perfilado”.
 
 Ação corretiva: Informar um código da "Época do Intervalo Perfilado" que esteja associado na base
 de dados da ANP ao código do "Período do Intervalo Perfilado". A associação entre os códigos pode
-ser consultada a partir do link abaixo: https://dpp-api anp.gov.briswaggerluilindex
+ser consultada a partir do link abaixo: https://dpp-api.anp.gov.br/swagger/ui/index
 
 Código da validação: 2340
 
-Mensagem apresentada: O código da "Idade do Intervalo Perfilado” [Valor informado] informado no
+Mensagem apresentada: O código da "Idade do Intervalo Perfilado" [Valor informado] informado no
 conjunto de dados PERFIS não está cadastrado na ANP.
 
 Situação em que ocorre: Quando o código da "Idade do Intervalo Perfilado" não estiver cadastrado
-naANP.
+na ANP.
 
 Ação corretiva: Informar um código da "Idade do Intervalo Perfilado" cadastrado na base de dados
-da ANP. Os códigos da idade do intervalo perfilado válidos podem ser consultados a partir do link:
-https://dpp-api.anp.gov.br/swaggerluifindex
+da ANP Os códigos da idade do intervalo perfilado válidos podem ser consultados a partir do link:
+https://dpp-api.anp.gov.br/swaggerluilindex
 
 Código da validação: 2341
 
-Mensagem apresentada: O código da "Idade do Intervalo Perfilado” [Valor informado] informado no
+Mensagem apresentada: O código da "Idade do Intervalo Perfilado" [Valor informado] informado no
 conjunto de dados PERFIS não está associado na base de dados da ANP ao código da "Época do
-Intervalo Perfilado" [Valor informado] informado no conjunto de dados PERFIS.
+Intervalo Perfilado” [Valor informado] informado no conjunto de dados PERFIS.
 
 Situação em que ocorre: Quando o código da "Idade do Intervalo Perfilado" não estiver associado
-na base de dados da ANP ao código da "Época do Intervalo Perfilado".
+na base de dados da ANP ao código da "Época do Intervalo Perfilado”.
 
 Ação corretiva: Informar um código da "Idade do Intervalo Perfilado" que esteja associado na base
 de dados da ANP ao código da "Época do Intervalo Perfilado". A associação entre os códigos pode
-ser consultada a partir do link abaixo: https://dpp-api anp.gov.briswaggerluilindex
+ser consultada a partir do link abaixo: https://dpp-api.anp.gov.br/swagger/uifindex
 
 Código da validação: 2342
 
-Mensagem apresentada: O código do "Grupo do Intervalo Perfilado" [Valor informado] informado no
+Mensagem apresentada: O código do "Grupo do Intervalo Perfilado” [Valor informado] informado no
 conjunto de dados PERFIS não está cadastrado ou não possui uma situação válida na ANP.
 
 Situação em que ocorre: Quando o código do "Grupo do Intervalo com Indícios de Petróleo ou Gás
@@ -1391,10 +1431,11 @@ Natural" não estiver cadastrado ou não possuir uma situação válida na ANP.
 Ação corretiva: Informar um código do "Grupo do Intervalo com Indícios de Petróleo ou Gás
 Natural" cadastrado na base de dados da ANP com a situação válida. Os códigos do grupo do
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 291532
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 29/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 intervalo com indícios de petróleo ou gás natural válidos podem ser consultados a partir do link:
-https://dpp-api.anp.gov.br/swaggerluifindex
+https://dpp-api.anp.gov.br/swaggerluilindex
 
 Código da validação: 2343
 
@@ -1408,7 +1449,7 @@ Gás Natural" informado não estiver cadastrado ou não possuir uma situação v
 Ação corretiva: Informar um código de "Formação do Intervalo com Indícios de Petróleo ou Gás
 Natural" cadastrado na base de dados da ANP com a situação válida. Os códigos de formação do
 intervalo com indícios de petróleo ou gás natural válidos podem ser consultados a partir do link:
-https://dpp-api.anp.gov.br/swaggerluifindex
+https://dpp-api.anp.gov.br/swagger/uilindex
 
 Código da validação: 2344
 
@@ -1418,12 +1459,12 @@ do "Grupo do Intervalo Perfilado" [Valor informado] informado no conjunto de dad
 
 Situação em que ocorre: Quando o código de "Formação do Intervalo com Indícios de Petróleo ou
 Gás Natural" não estiver associado na base de dados da ANP ao código do "Grupo do Intervalo com
-Indícios de Petróleo ou Gás Natural".
+Indícios de Petróleo ou Gás Natural”,
 
 Ação corretiva: Informar um código de "Formação do Intervalo com Indícios de Petróleo ou Gás
 Natural" que esteja associado na base de dados da ANP ao código do "Grupo do Intervalo com
 Indícios de Petróleo ou Gás Natural". A associação entre os códigos pode ser consultada a partir do
-link abaixo: https://dpp-api.anp.gov.br/swaggerluilindex
+link abaixo: https://dpp-api.anp.gov.br/swaggerluifindex
 
 Código da validação: 2345
 
@@ -1431,14 +1472,15 @@ Mensagem apresentada: O código do "Membro do Intervalo Perfilado" [Valor inform
 no conjunto de dados PERFIS não está cadastrado ou não possui uma situação válida na ANP.
 
 Situação em que ocorre: Quando o código do "Membro do Intervalo com Indícios de Petróleo ou
-Gás Natural" não estiver cadastrado ou não possuir uma situação válida na ANP.
+Gás Natural" não estiver cadastrado ou não possuir uma situação válida na ANP
 
 Ação corretiva: Informar um código do "Membro do Intervalo com Indícios de Petróleo ou Gás
 Natural" cadastrado na base de dados da ANP com a situação válida. Os códigos de membro do
 intervalo com indícios de petróleo ou gás natural válidos podem ser consultados a partir do link:
-https://dpp-api.anp.gov.br/iswaggerluifindex
+https://dpp-api.anp.gov.br/swagger/uilindex
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 30/32
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 30/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 
 Código da validação: 2346
@@ -1452,13 +1494,14 @@ associado na base de dados da ANP ao código da "Formação do Intervalo Perfila
 
 Ação corretiva: Informar um código do "Membro do Intervalo Perfilado" que esteja associado na
 
-base de dados da ANP ao código da "Formação do Intervalo Perfilado". A associação entre os
-códigos pode ser consultada a partir do link abaixo: https://dpp-api.anp.gov.briswaggerluilindex
+base de dados da ANP ao código da "Formação do Intervalo Perfilado", A associação entre os
+códigos pode ser consultada a partir do link abaixo: https://dpp-api.anp.gov.br/swagger/uifindex
 
 Código da validação: 2353
 
 Mensagem apresentada: Já existe na base de dados ANP uma carga de ND ativa para o código do
-poço [Valor informado).
+
+poço [Valor informado].
 
 Situação em que ocorre: Quando já existe na base de dados ANP uma carga de ND ativa para o
 código do poço informado.
@@ -1468,7 +1511,7 @@ encontra ATIVA informando o status NÃO APROVADO
 
 Código da validação: 2906
 
-Mensagem apresentada: Data Descoberta menor que a data inicio de perfuração.
+Mensagem apresentada: Data Descoberta menor que a data inicio de periuração.
 
 Situação em que ocorre: Quando no envio da carga, a Data Descoberta é menor que a Data Inicio
 de Perfuração.
@@ -1482,8 +1525,10 @@ Mensagem apresentada: Data Descoberta maior que a data de envio da carga.
 Situação em que ocorre: Quando no envio da carga, a Data Descoberta é maior que a Data de
 Envio.
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 3182
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 31/32
+
 14/04/2025, 11:37 Do poço ao posto - Visualizar Manual da Carga
 Ação corretiva: Informar data válida do período.
 
-hitps://dpp1.hmi anp.gov.briengineManualA/isualizar/102 321532
+https:/dpp1 .hml.anp.gov.br/longins/Manual/Visualizar/102 32/32
+

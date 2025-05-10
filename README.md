@@ -8,18 +8,15 @@ composer require raphaelramosds/pdf-to-txt
 
 ## How does it work?
 
-It uses ImageMagick to convert all PDF pages into JPG format, extracts their content using the PHP wrapper for Tesseract, available in [thiagoalessio/tesseract_ocr](https://packagist.org/packages/thiagoalessio/tesseract_ocr), and compiles the results into a single TXT file.
+It uses ImageMagick to convert all PDF pages into JPG format, extracts their content using Tesseract OCR and compiles the results into a single TXT file.
 
 ## Dependencies
 
 Unfortunately, this package can only be used in a Linux environment. Additionally, you will need to install the following dependencies:
 
-### Tesseract OCR wrapper and package
+### Tesseract OCR package
 
 ```bash
-# PHP wrapper for Tesseract
-composer require thiagoalessio/tesseract_ocr
-
 # Install Tesseract OCR and its support to PT-BR language
 sudo apt install tesseract-ocr tesseract-ocr-por
 ```

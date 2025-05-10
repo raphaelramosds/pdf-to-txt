@@ -14,7 +14,6 @@
         }
     ],
     "require": {
-        "php": ">=8.2",
-        "thiagoalessio/tesseract_ocr": "^2.13"
+        "php": ">=8.2"
     }
 }

@@ -76,7 +76,6 @@ class PdfToTxt
     private function generateTxt ()
     {
         $txt = $this->txt_dirname . "/" . $this->filename . ".txt";
-
         $file = fopen($txt, "a") or die("Unable to open file");
         
         // Clean text file content
@@ -85,17 +84,13 @@ class PdfToTxt
         // Build TXT file
         for ($i = 0; $i < sizeof($this->pages); $i++) 
         {
-            $tocr = new TesseractOCR($this->img_dirname . "/page-{$i}.jpg");
-            $content = $tocr
-                ->lang('por')
-                ->run();
+            $cmd = "tesseract " . escapeshellarg($this->img_dirname . "/page-{$i}.jpg") . " stdout -l por 2>/dev/null";
+            $content = shell_exec($cmd);
             fwrite($file, $content . PHP_EOL);
         }
 
         fclose($file);
-
         echo "TXT successfully generated on {$txt}" . PHP_EOL;
-
         return $txt;
     }
 
