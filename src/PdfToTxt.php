@@ -6,8 +6,6 @@ use Imagick;
 use Exception;
 use InvalidArgumentException;
 
-use thiagoalessio\TesseractOCR\TesseractOCR;
-
 class PdfToTxt 
 {
     public string $filename;
