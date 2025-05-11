@@ -8,7 +8,7 @@ composer require raphaelramosds/pdf-to-txt
 
 ## Example
 
-Converts a `file.pdf` into `file.txt` and save it on `path/to/txt directory`
+Converts `file.pdf` into `file.txt` and save it on `path/to/txt directory`
 
 ```php
 $pdfh = new PdfToTxt(
