@@ -45,7 +45,7 @@ It uses ImageMagick to convert all PDF pages into JPG format, extracts their con
 
 ### Ghostscript support?
 
-While some PDF files use standard fonts that can be easily mapped to text, others rely on custom fonts—such as Type 3—which often store characters as vector graphics. In such cases, OCR becomes necessary to extract readable content. Therefore, in the future, I plan to add Ghostscript support to this package as an alternative method for handling these PDFs without relying solely on OCR.
+While some PDF files use standard fonts that can be easily mapped to text, others rely on custom fonts which often store characters as vector graphics. In such cases, OCR becomes necessary to extract readable content. Therefore, in the future, I plan to add Ghostscript support to this package as an alternative method for handling these PDFs without relying solely on OCR.
 
 You can use the following Ghostscript command to convert a PDF into a plain text file
 
