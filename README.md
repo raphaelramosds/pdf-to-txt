@@ -19,6 +19,10 @@ $ptt->convert();
 
 It uses ImageMagick to convert all PDF pages into JPG format, extracts their content using Tesseract OCR and compiles the results into a single TXT file.
 
+### Ghostscript support?
+
+While some PDF files use standard fonts that can be easily mapped to text, others rely on custom fonts, which require OCR as a workaround to extract readable content because they are vectorized on the document. Therefore, in the future, I plan to add Ghostscript support to this package as an alternative method for handling such PDFs without relying solely on OCR.
+
 ## Dependencies
 
 Unfortunately, this package can only be used in a Linux environment. Additionally, you will need to install the following dependencies:
