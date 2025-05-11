@@ -11,11 +11,8 @@ composer require raphaelramosds/pdf-to-txt
 Converts `file.pdf` into `file.txt` and save it on `path/to/txt directory`
 
 ```php
-$pdfh = new PdfToTxt(
-    'path/to/file.pdf',
-    'path/to/txt'
-    'file',
-);
+$ptt = new PdfToTxt('path/to/file.pdf', 'path/to/txt', 'file');
+$ptt->convert();
 ```
 
 ## How does it work?
