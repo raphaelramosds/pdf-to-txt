@@ -6,6 +6,18 @@ PdfToTxt is a simple package for converting a PDF file into TXT with PHP
 composer require raphaelramosds/pdf-to-txt
 ```
 
+## Example
+
+Converts a `file.pdf` into `file.txt` and save it on `path/to/txt directory`
+
+```php
+$pdfh = new PdfToTxt(
+    'path/to/file.pdf',
+    'path/to/txt'
+    'file',
+);
+```
+
 ## How does it work?
 
 It uses ImageMagick to convert all PDF pages into JPG format, extracts their content using Tesseract OCR and compiles the results into a single TXT file.

@@ -17,7 +17,7 @@ class PdfToTxt
 
     private array $pages;
 
-    public function __construct (string $filename, string $pdf, string $txt_dirname) 
+    public function __construct (string $pdf, string $txt_dirname, string $filename) 
     {
         try {
             if (!file_exists($pdf)) {
