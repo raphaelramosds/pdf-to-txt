@@ -6,15 +6,6 @@ PdfToTxt is a simple package for converting a PDF file into TXT with PHP
 composer require raphaelramosds/pdf-to-txt
 ```
 
-## Example
-
-Converts `file.pdf` into `file.txt` and save it on `path/to/txt directory`
-
-```php
-$ptt = new PdfToTxt('path/to/file.pdf', 'path/to/txt', 'file');
-$ptt->convert();
-```
-
 ## Dependencies
 
 Unfortunately, this package can only be used in a Linux environment. Additionally, you will need to install the following dependencies
@@ -57,4 +48,21 @@ Before using this approach, it's recommended to check which fonts are used in th
 
 ```bash
 gs -DPDFINFO file.pdf
+```
+
+## Example
+
+Converts `file.pdf` into `file.txt` and save it on `path/to/txt directory`
+
+```php
+$ptt = new PdfToTxt('path/to/file.pdf', 'path/to/txt', 'file');
+$ptt->convert();
+```
+
+## Tests
+
+Unit tests were written with [PHPUnit](https://phpunit.de/)
+
+```bash
+./vendor/bin/phpunit tests
 ```
